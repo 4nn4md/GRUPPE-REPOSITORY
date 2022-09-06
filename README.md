@@ -6,4 +6,5 @@
 | Jacob Rusch Svendsen  | https://github.com/jacobrsv         |
 | Anna Maria Dang       | https://github.com/4nn4md           |
 | Sebastian Nesheim     | https://github.com/sebastiannesheim |
+| Johanne Haakenstad    | https://github.com/Johannekh        |
 | Simen Abild Olsen     | https://github.com/Venterommet      |
