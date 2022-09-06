@@ -5,3 +5,4 @@
 | Kjell Roar Lindberg   | https://github.com/kjellern98       |
 | Jacob Rusch Svendsen  | https://github.com/jacobrsv         |
 | Simen Abild Olsen     | https://github.com/Venterommet      |
+| Anna Maria Dang       | https://github.com/4nn4md           |
