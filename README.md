@@ -1,4 +1,4 @@
-# GRUPPE-REPOSITORY
+# Gruppe repository for gruppe 9A
 
 | Fullt Navn 		        | URL til IND-GITHUB-KONTO 	          |
 | --------------------- | ----------------------------------- |
