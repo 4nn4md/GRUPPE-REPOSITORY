@@ -9,3 +9,6 @@
 | Sebastian Nesheim     | https://github.com/sebastiannesheim | 
 | Simen Abild Olsen     | https://github.com/Venterommet      |
 | Oliver Aaron Berg Johnston | https://github.com/Schniipi    |
+
+
+* Test av pull request *
