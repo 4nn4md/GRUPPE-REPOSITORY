@@ -8,4 +8,4 @@
 | Johanne Haakenstad    | https://github.com/Johannekh        |
 | Sebastian Nesheim     | https://github.com/sebastiannesheim | 
 | Simen Abild Olsen     | https://github.com/Venterommet      |
-
+| Oliver Aaron Berg Johnston | https://github.com/Schniipi    |
