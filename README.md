@@ -11,4 +11,3 @@
 | Oliver Aaron Berg Johnston | https://github.com/Schniipi    |
 
 
-* Test av pull request *
