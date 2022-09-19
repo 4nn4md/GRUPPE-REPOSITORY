@@ -4,6 +4,7 @@ body {
 }
 
 .flag {
-    height: 300px;
+    min-height: 200px;
+    margin: auto;
 }
 
