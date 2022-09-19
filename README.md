@@ -1,4 +1,4 @@
-# Gruppe repository for gruppe 9A
+# Grupperepository for gruppe 9A
 
 ### Gruppemedlemmer
 
