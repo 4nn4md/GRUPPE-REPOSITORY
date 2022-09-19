@@ -9,6 +9,8 @@ h2 {}
 .flag {
     margin: auto;
     transition: transform .3s; /* Animation */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
 }
 
 .flag:hover {
