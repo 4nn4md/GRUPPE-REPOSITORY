@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Canvas - Flagg-øvelse i IS-114</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+    <h1>Canvas flag</h1>
+
+    <div id="flag">
+        <canvas class="flag" id="flagCanvas" width="160" height="120"></canvas>
+    </div>
+    <p>Flag of Japan</p>
+
+</body>
+
+<script>
+    var c = document.getElementById("flagCanvas");
+    var ctx = c.getContext("2d");
+    ctx.beginPath();
+    ctx.arc(80, 60, 40, 0, 2 * Math.PI);
+    ctx.fillStyle = '#BC002D';
+    ctx.fill();
+
+    </script>
+
+</html>
