@@ -3,41 +3,19 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Flagg-øvelse i IS-114</title>
+    <title>Flaggoppgave i IS-114</title>
     <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
 <body>
-    <h1>Flag</h1>
-    <h2>1. Using pure HTML</h2>
-    <div id="flag01" class="flag">
-
-    </div>
-
-    <h2>2. Using 'id' and 'class' tags and CSS</h2>
-    <div style="width: 5cm;" class="flag">
-        <div style="height: 1cm; background-color: black;"></div>
-        <div style="height: 1cm; background-color: #DD0000;"></div>
-        <div style="height: 1cm; background-color: #FFCC00;"></div>
-    </div>
-    <p>Flag of Germany</p>
-
-    <h2>3. Using Canvas and JavaScript</h2>
-    <div id="flag03">
-        <canvas class="flag" id="flagCanvas" width="160" height="120"></canvas>
-    </div>
-    <p>Flag of Japan</p>
-
+    <h1>Flaggoppgave i IS-114</h1>
+    <strong>Gruppe 9A</strong>
+    <p><a href="Flaggoppgaven/pflagg.html">Flagg med bruk av <i>p-element</i></a></p>
+    <p><a href="Flaggoppgaven/cssflagg.html">Flagg med bruk av CSS</a></p>
+    <p><a href="Flaggoppgaven/canvasflagg.html">Flagg med bruk av Canvas-element og JavaScript</a></p>
+    <br>
+    <h2>Kilder:</h2>
+    <p>Her kommer kilder.</p>
 </body>
-
-<script>
-    var c = document.getElementById("flagCanvas");
-    var ctx = c.getContext("2d");
-    ctx.beginPath();
-    ctx.arc(80, 60, 40, 0, 2 * Math.PI);
-    ctx.fillStyle = '#BC002D';
-    ctx.fill();
-
-    </script>
 
 </html>
