@@ -18,16 +18,14 @@
 </body>
 
 <script>
-    var c = document.getElementById("flagCanvas");
-    var ctx = c.getContext("2d");
-    ctx.fillStyle = "white";
-    ctx.fillRect(0, 0, 1000, 1000); // Starter i øverste højre hjørne og slutter utenfor canvas i nederst venstre, dette kunne sikkert gjøres penere.
-
-    ctx.beginPath();
-    ctx.arc(150, 100, 60, 0, 2 * Math.PI);
-    ctx.fillStyle = '#BC002D';
-    ctx.fill();
-
+    var flagCanvas = document.getElementById("flagCanvas"); // Finner HTML-elementet 'flagCanvas' og gir det en variabel. Merk at det fungere å bruke samme navn fordi scopet til HTML og JavaScript ikke overlapper.
+    var ctx = flagCanvas.getContext("2d");                  // Finner frem '2d' konteksten til Canvas APIet
+    ctx.fillStyle = "white";                                // Velger en farge
+    ctx.fillRect(0, 0, 1000, 1000);                         // Tegner en rektangel. Starter i øverste højre hjørne og slutter utenfor canvas i nederst venstre, dette kunne sikkert gjøres penere.
+    ctx.beginPath();                                        // Starter en path
+    ctx.arc(150, 100, 60, 0, 2 * Math.PI);                  // Tegner en bue, vha. 'arc' funksjonen. arc(x, y, radius, startAngle, endAngle)
+    ctx.fillStyle = '#BC002D';                              // Velger en farge
+    ctx.fill();                                             // Fyller ut overstående larc
     </script>
 
 </html>
