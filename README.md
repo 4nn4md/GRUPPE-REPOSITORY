@@ -36,8 +36,7 @@ Vi tok utgangspunkt i w3schools eksempel med en bue, og tilpassede det derfra.
 Det står skrevet kommentarer in-line i koden som beskriver tegningen steg for steg.
 
 
-Kilder:
-
+## Kilder:
 * (1) flagcolorcodes. "Germany flag color codes." Hentet fra: https://www.flagcolorcodes.com/germany (Lastet ned: 04.10.2022)
 * (2) flagcolorcodes. "Italy flag color codes." Hentet fra: https://www.flagcolorcodes.com/italy (Lastet ned: 04.10.2022)
 * (3) flagcolorcodes. "Japan flag color codes." Hentet fra:https://www.flagcolorcodes.com/japan (Lastet ned: 04.10.2022)
