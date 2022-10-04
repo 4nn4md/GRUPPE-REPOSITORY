@@ -1,5 +1,7 @@
 # Grupperepository for gruppe 9A
 
+## Klikk her for å vise flaggoppgaven https://4nn4md.github.io/GRUPPE-REPOSITORY/
+
 ### Gruppemedlemmer
 
 | Fullt Navn 		        | URL til GITHUB konto 	          |
