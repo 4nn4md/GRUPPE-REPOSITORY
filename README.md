@@ -25,6 +25,23 @@
 Gruppens selvevaluering av forståelse av Git og GitHub: _2,5_
 
 
+# Flaggoppgaven
+
+## Refleksjon rundt implementeringen
+### 1. Flagg med bruk av p-element
+Vi valgte å lage det italienske flagget med p-elementet. Det ga en utfordring i og med de tre farger er vertikale i stedet for horisontale i f.eks. det tyske flagget og derfor var bruk a p-elementet alene ikke nok. Derfor har vi brukt en tabell i formen av *"table"* tagget, og på den måten gjort det mulig å ha p-elementer ved siden av hverandre horisontalt. 
+P-elementet er ment til tekst, og har derfor padding, margin, border osv. innebygget. Dette gjør det til en utfordring å anvende p-elementet til å lage grafikk, og det er nødvendig å eksplisitt fortelle nettleseren dette skal være slått fra.
+### 2. Flagg med bruk av CSS
+Med sine horisontale oppdelinger var det tyske flagget var mye lettere å konstruere.
+### 3. Canvas flagg
+Canvas-tagget gjør bruk av Javascript til å 'tegne' grafikken. Dette fungerer helt annerledes enn de to overstående metoder. Her ser vi forskjellen på markup-språk og scripting-språk.
+Vi tok utgangspunkt i w3schools eksempel med en bue, og tilpassede det derfra.
+Det står skrevet kommentarer in-line i koden som beskriver tegningen steg for steg.
+Kilder: 
+https://www.w3schools.com/tags/canvas_arc.asp
+https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D#basic_example
+
+
 
 
 Kilder:
