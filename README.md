@@ -34,11 +34,6 @@ Med sine horisontale oppdelinger var det tyske flagget var mye lettere å konstr
 Canvas-tagget gjør bruk av Javascript til å 'tegne' grafikken. Dette fungerer helt annerledes enn de to overstående metoder. Her ser vi forskjellen på markup-språk og scripting-språk.
 Vi tok utgangspunkt i w3schools eksempel med en bue, og tilpassede det derfra.
 Det står skrevet kommentarer in-line i koden som beskriver tegningen steg for steg.
-Kilder: 
-https://www.w3schools.com/tags/canvas_arc.asp
-https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D#basic_example
-
-
 
 
 Kilder:
@@ -49,3 +44,5 @@ Kilder:
 * (4) Wikipedia. "Flag of Germany." Hentet fra: https://en.wikipedia.org/wiki/Flag_of_Germany (Lastet ned: 04.10.2022)
 * (5) Wikipedia. "Flag of Italy." Hentet fra: https://commons.wikimedia.org/wiki/File:Flag_of_Italy_(1946%E2%80%932003).png (Lastet ned: 04.10.2022)
 * (6) Wikipedia. "Flag of Japan." Hentet fra: https://en.wikipedia.org/wiki/Flag_of_Japan (Lastet ned: 04.10.2022)
+* (7) W3schools. "HTML canvas arc() Method" Hentet fra: https://www.w3schools.com/tags/canvas_arc.asp
+* (8) MDN Web Docs. "CanvasRenderingContext2D" Hentet fra: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D#basic_example
