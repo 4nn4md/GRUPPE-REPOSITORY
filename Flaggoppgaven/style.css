@@ -4,8 +4,6 @@ body {
     text-align: center;
 }
 
-h2 {}
-
 .flag {
     margin: auto;
     transition: transform .3s; /* Animation */
