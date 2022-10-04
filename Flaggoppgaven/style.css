@@ -12,5 +12,5 @@ body {
 }
 
 .flag:hover {
-    transform: scale(1.3);
+    transform: scale(1.3); /* Scale med 30% når musen er over elementet */
 }
