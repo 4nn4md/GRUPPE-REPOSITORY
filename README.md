@@ -1,7 +1,4 @@
 # Grupperepository for gruppe 9A
-
-## Klikk her for å vise flaggoppgaven: https://4nn4md.github.io/GRUPPE-REPOSITORY/
-
 ### Gruppemedlemmer
 
 | Fullt Navn 		        | URL til GITHUB konto 	          |
@@ -26,7 +23,7 @@ Gruppens selvevaluering av forståelse av Git og GitHub: _2,5_
 
 
 # Flaggoppgaven
-
+**Klikk her for å vise flaggoppgaven: https://4nn4md.github.io/GRUPPE-REPOSITORY/**
 ## Refleksjon rundt implementeringen
 ### 1. Flagg med bruk av p-element
 Vi valgte å lage det italienske flagget med p-elementet. Det ga en utfordring i og med de tre farger er vertikale i stedet for horisontale i f.eks. det tyske flagget og derfor var bruk a p-elementet alene ikke nok. Derfor har vi brukt en tabell i formen av *"table"* tagget, og på den måten gjort det mulig å ha p-elementer ved siden av hverandre horisontalt. 
@@ -46,14 +43,9 @@ https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D#basic_
 
 Kilder:
 
-(1) flagcolorcodes. "Germany flag color codes." Hentet fra: https://www.flagcolorcodes.com/germany (Lastet ned: 04.10.2022)
-
-(2) flagcolorcodes. "Italy flag color codes." Hentet fra: https://www.flagcolorcodes.com/italy (Lastet ned: 04.10.2022)
-
-(3) flagcolorcodes. "Japan flag color codes." Hentet fra:https://www.flagcolorcodes.com/japan (Lastet ned: 04.10.2022)
-
-(4) Wikipedia. "Flag of Germany." Hentet fra: https://en.wikipedia.org/wiki/Flag_of_Germany (Lastet ned: 04.10.2022)
-
-(5) Wikipedia. "Flag of Italy." Hentet fra: https://commons.wikimedia.org/wiki/File:Flag_of_Italy_(1946%E2%80%932003).png (Lastet ned: 04.10.2022)
-
-(6) Wikipedia. "Flag of Japan." Hentet fra: https://en.wikipedia.org/wiki/Flag_of_Japan (Lastet ned: 04.10.2022)
+* (1) flagcolorcodes. "Germany flag color codes." Hentet fra: https://www.flagcolorcodes.com/germany (Lastet ned: 04.10.2022)
+* (2) flagcolorcodes. "Italy flag color codes." Hentet fra: https://www.flagcolorcodes.com/italy (Lastet ned: 04.10.2022)
+* (3) flagcolorcodes. "Japan flag color codes." Hentet fra:https://www.flagcolorcodes.com/japan (Lastet ned: 04.10.2022)
+* (4) Wikipedia. "Flag of Germany." Hentet fra: https://en.wikipedia.org/wiki/Flag_of_Germany (Lastet ned: 04.10.2022)
+* (5) Wikipedia. "Flag of Italy." Hentet fra: https://commons.wikimedia.org/wiki/File:Flag_of_Italy_(1946%E2%80%932003).png (Lastet ned: 04.10.2022)
+* (6) Wikipedia. "Flag of Japan." Hentet fra: https://en.wikipedia.org/wiki/Flag_of_Japan (Lastet ned: 04.10.2022)
