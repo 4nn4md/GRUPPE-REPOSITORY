@@ -23,3 +23,14 @@
 **I det tredje møtet (08.09.22)**, fikk vi lagt inn det siste medlemmet i gruppen inn i repositoryen. En annen utfordring vi har hatt gjennom hele oppgaven, var vanskeligheten ved å forstå hvordan de forskjellige kommandoene fungerer og hvordan man bruker dem. Til slutt resonnerte vi oss frem til en konklusjon over hvordan vi følte at prosjektet gikk.
 
 Gruppens selvevaluering av forståelse av Git og GitHub: _2,5_
+
+
+
+
+Kilder:
+(1) flagcolorcodes. "Germany flag color codes." Hentet fra: https://www.flagcolorcodes.com/germany (Lastet ned: 04.10.2022)
+(2) flagcolorcodes. "Italy flag color codes." Hentet fra: https://www.flagcolorcodes.com/italy (Lastet ned: 04.10.2022)
+(3) flagcolorcodes. "Japan flag color codes." Hentet fra:https://www.flagcolorcodes.com/japan (Lastet ned: 04.10.2022)
+(4) Wikipedia. "Flag of Germany." Hentet fra: https://en.wikipedia.org/wiki/Flag_of_Germany (Lastet ned: 04.10.2022)
+(5) Wikipedia. "Flag of Italy." Hentet fra: https://commons.wikimedia.org/wiki/File:Flag_of_Italy_(1946%E2%80%932003).png (Lastet ned: 04.10.2022)
+(6) Wikipedia. "Flag of Japan." Hentet fra: https://en.wikipedia.org/wiki/Flag_of_Japan (Lastet ned: 04.10.2022)
