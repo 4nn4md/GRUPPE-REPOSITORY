@@ -11,7 +11,7 @@
     <h1>Canvas flag</h1>
 
     <div id="flag">
-        <canvas class="flag" id="flagCanvas" width="160" height="120"></canvas> <!-- Her bestemmes størrelsen på flagget -->
+        <canvas class="flag" id="flagCanvas" width="300" height="200"></canvas>
     </div>
     <p>Flag of Japan</p>
 
@@ -20,8 +20,11 @@
 <script>
     var c = document.getElementById("flagCanvas");
     var ctx = c.getContext("2d");
+    ctx.fillStyle = "white";
+    ctx.fillRect(0, 0, 1000, 1000); // Starter i øverste højre hjørne og slutter utenfor canvas i nederst venstre, dette kunne sikkert gjøres penere.
+
     ctx.beginPath();
-    ctx.arc(80, 60, 40, 0, 2 * Math.PI);  // https://www.w3schools.com/tags/canvas_arc.asp
+    ctx.arc(150, 100, 60, 0, 2 * Math.PI);
     ctx.fillStyle = '#BC002D';
     ctx.fill();
 
