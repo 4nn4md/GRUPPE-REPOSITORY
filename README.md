@@ -34,7 +34,7 @@ Vi valgte å strukturere vårt “Github project” som et “bord”, fordi det
 Vi valgte å lage det italienske flagget med p-elementet. Det ga en utfordring i og med de tre farger er vertikale i stedet for horisontale i f.eks. det tyske flagget og derfor var bruk a p-elementet alene ikke nok. Derfor har vi brukt en tabell i formen av *"table"* tagget, og på den måten gjort det mulig å ha p-elementer ved siden av hverandre horisontalt. 
 P-elementet er ment til tekst, og har derfor padding, margin, border osv. innebygget. Dette gjør det til en utfordring å anvende p-elementet til å lage grafikk, og det er nødvendig å eksplisitt fortelle nettleseren dette skal være slått fra.
 ### 2. Flagg med bruk av CSS
-Med sine horisontale oppdelinger var det tyske flagget var mye lettere å konstruere.
+Med sine horisontale oppdelinger var det tyske flagget var mye lettere å konstruere. Dette er den mest simple løsningen og den som rent kodemessig er mest elegant, da den er lettest å lese for et menneske og bruker færrest linjer, hvilket sannsynligvis gjør den raskere å innlese for nettleseren.
 ### 3. Canvas flagg
 Canvas-tagget gjør bruk av Javascript til å 'tegne' grafikken. Dette fungerer helt annerledes enn de to overstående metoder. Her ser vi forskjellen på markup-språk og scripting-språk.
 Vi tok utgangspunkt i w3schools eksempel med en bue, og tilpassede det derfra.
