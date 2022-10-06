@@ -39,6 +39,7 @@ P-elementet er ment til tekst, og har derfor padding, margin, border osv. inneby
 Vi hadde også litt problemer med å forstå hvordan dimensjonene skulle blir korrekte, men etter litt diskusjon og uttestninger klarte vi det.
 ### 2. Flagg med bruk av CSS
 Med sine horisontale oppdelinger var det tyske flagget var mye lettere å konstruere. Dette er den mest simple løsningen og den som rent kodemessig er mest elegant, da den er lettest å lese for et menneske og bruker færrest linjer, hvilket sannsynligvis gjør den raskere å innlese for nettleseren. I dette tilfelle hadde gruppen få problemer med å lage et flagg ved bruk av css.
+Atributtene 'id' og/eller 'class' måtte anvendes. 'id' ble brukt til de individuelle stripene i flagget, da de er unikke og kun opptrer én enkelt gang. 'class' ble brukt til å definere størrelsen av flagget da det er en "klasse" av elementer og derfor kan opptre flere ganger, med flagg som bruker samme proporsjoner.
 ### 3. Canvas flagg
 Canvas-tagget gjør bruk av Javascript til å 'tegne' grafikken. Dette fungerer helt annerledes enn de to overstående metoder. Her ser vi forskjellen på markup-språk og scripting-språk.
 Vi tok utgangspunkt i w3schools eksempel med en bue, og tilpassede det derfra.
