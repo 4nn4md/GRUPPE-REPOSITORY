@@ -36,7 +36,7 @@ Målet ved denne oppgaven var å klare å gjennomføre Flaggoppgaven. Hovedoppga
 ### 1. Flagg med bruk av p-element
 Vi valgte å lage det italienske flagget med p-elementet. Det ga en utfordring i og med de tre farger er vertikale i stedet for horisontale i f.eks. det tyske flagget og derfor var bruk a p-elementet alene ikke nok. Derfor har vi brukt en tabell i formen av *"table"* tagget, og på den måten gjort det mulig å ha p-elementer ved siden av hverandre horisontalt. 
 P-elementet er ment til tekst, og har derfor padding, margin, border osv. innebygget. Dette gjør det til en utfordring å anvende p-elementet til å lage grafikk, og det er nødvendig å eksplisitt fortelle nettleseren dette skal være slått fra.
-Vi hadde også litt problemer med å forstå hvordan dimensjonene skulle blir korrekte, men etter litt diskusjon og uttestninger fikk vi det til i slutten.
+Vi hadde også litt problemer med å forstå hvordan dimensjonene skulle blir korrekte, men etter litt diskusjon og uttestninger klarte vi det.
 ### 2. Flagg med bruk av CSS
 Med sine horisontale oppdelinger var det tyske flagget var mye lettere å konstruere. Dette er den mest simple løsningen og den som rent kodemessig er mest elegant, da den er lettest å lese for et menneske og bruker færrest linjer, hvilket sannsynligvis gjør den raskere å innlese for nettleseren.
 ### 3. Canvas flagg
