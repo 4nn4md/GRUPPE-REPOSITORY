@@ -38,7 +38,7 @@ Vi valgte å lage det italienske flagget med p-elementet. Det ga en utfordring i
 P-elementet er ment til tekst, og har derfor padding, margin, border osv. innebygget. Dette gjør det til en utfordring å anvende p-elementet til å lage grafikk, og det er nødvendig å eksplisitt fortelle nettleseren dette skal være slått fra.
 Vi hadde også litt problemer med å forstå hvordan dimensjonene skulle blir korrekte, men etter litt diskusjon og uttestninger klarte vi det.
 ### 2. Flagg med bruk av CSS
-Med sine horisontale oppdelinger var det tyske flagget var mye lettere å konstruere. Dette er den mest simple løsningen og den som rent kodemessig er mest elegant, da den er lettest å lese for et menneske og bruker færrest linjer, hvilket sannsynligvis gjør den raskere å innlese for nettleseren.
+Med sine horisontale oppdelinger var det tyske flagget var mye lettere å konstruere. Dette er den mest simple løsningen og den som rent kodemessig er mest elegant, da den er lettest å lese for et menneske og bruker færrest linjer, hvilket sannsynligvis gjør den raskere å innlese for nettleseren. I dette tilfelle hadde gruppen få problemer med å lage et flagg ved bruk av css.
 ### 3. Canvas flagg
 Canvas-tagget gjør bruk av Javascript til å 'tegne' grafikken. Dette fungerer helt annerledes enn de to overstående metoder. Her ser vi forskjellen på markup-språk og scripting-språk.
 Vi tok utgangspunkt i w3schools eksempel med en bue, og tilpassede det derfra.
